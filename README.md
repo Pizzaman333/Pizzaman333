@@ -10,7 +10,7 @@ I'm a student at the Czech Technical University in Prague, Czech Republic, with 
 
 ## 🛠 Tech Stack
 
-<div align="center" style="background-color: #ffffff; border-radius: 12px; padding: 24px 16px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); max-width: 600px; margin: auto;">
+<div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SCSS"/> &nbsp;&nbsp;
