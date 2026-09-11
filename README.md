@@ -31,7 +31,6 @@ I'm a student at the Czech Technical University in Prague, Czech Republic, with 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg" height="40" alt="zsh"/> &nbsp;&nbsp;
 </div>
 
-## Connect with Me  
+## Contacts  
 - <img src="https://freelogopng.com/images/all_img/1691730767discord-logo-transparent.png" height="15" alt="WinUI 3"/> Discord (pizzaman___ok)
 - <img src="https://static.cdnlogo.com/logos/t/57/telegram-2019.svg" height="17" alt="WinUI 3"/> [Telegram](https://t.me/Pizzaman_1)  
-- 🌐 [Personal Website](your-link)
